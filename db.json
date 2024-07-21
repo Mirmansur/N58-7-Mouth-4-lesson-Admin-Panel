@@ -1,0 +1,90 @@
+{
+  "name": [
+    {
+      "id": "2",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "N58"
+    },
+    {
+      "id": "3",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "N58"
+    },
+    {
+      "id": "4",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "N58"
+    },
+    {
+      "id": "5",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "N58"
+    },
+    {
+      "id": "6",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "N58"
+    },
+    {
+      "id": "7",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "N58"
+    },
+    {
+      "id": "8",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "N58"
+    },
+    {
+      "id": "a146",
+      "firstName": "aed",
+      "lastName": "aewde",
+      "group": "N30"
+    }
+  ],
+  "teacher": [
+    {
+      "id": "5",
+      "firstName": "Mark",
+      "lastName": "Doe",
+      "level": "Junior"
+    },
+    {
+      "id": "6",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "level": "Middle"
+    },
+    {
+      "id": "7",
+      "firstName": "Ilyos",
+      "lastName": "Suyunov",
+      "level": "Senior"
+    },
+    {
+      "id": "8",
+      "firstName": "Mark",
+      "lastName": "Doe",
+      "level": "Junior"
+    },
+    {
+      "id": "9e86",
+      "firstName": "asdsa",
+      "lastName": "asdasd",
+      "level": "Junior"
+    },
+    {
+      "id": "3939",
+      "firstName": "asdsa",
+      "lastName": "asdasd",
+      "level": "Junior"
+    }
+  ]
+}
